@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437154523618",
+    "firebase_url": "https://pushdemo-76b95.firebaseio.com",
+    "project_id": "pushdemo-76b95",
+    "storage_bucket": "pushdemo-76b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437154523618:android:604db6e4239aa00d",
+        "android_client_info": {
+          "package_name": "pushappdemo.santhoshthepro.com.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437154523618-n7r05obtraq1loso0ua62e6c49ke0i4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD81AyHwnEw5PoOuZedZ9YsAiEgy5R3kuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
